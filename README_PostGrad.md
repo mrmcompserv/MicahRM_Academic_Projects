@@ -3,7 +3,7 @@
 
 Happy to know you're here to help.  Welcome aboard.
 
-The purpose of this repository is to serve as a useful reminder of critical vulnerabilites in the Cyber War. Enjoy!
+The purpose of this repository is to serve as a useful reminder of MCS Inc. (A Mission Critical Solutions team.) projects that address critical vulnerabilites in the Cyber War. Enjoy!
 
 
 Dell PowerProtect Cyber Recovery versions before 19.11.0...
