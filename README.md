@@ -1,4 +1,15 @@
-# Academic_Projects
+# Post MCS Inc. Projects to consider
+
+A Mission Critical Solutions team.
+
+Happy to know you're here to help Micah Rose-Mighty. Welcome aboard.
+
+The purpose of this repository is to serve as a useful reminder of projects and critical vulnerabilites in the Cyber War. Enjoy!
+
+
+Micah wrote >
+
+Academic_Projects
  Some of the various Academic Projects completed by Micah Rose-Mighty during the pursuit of my Bachelor of Science with Major Computer Science at Brock University (2018 - 2023)
 
 Due to the fact that this is a repository of some of my various Academic Projects completed during my time at university, my work may be unconventional, unorthodox, buggy, or simply incorrect.
