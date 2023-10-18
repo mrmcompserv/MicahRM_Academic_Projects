@@ -1,6 +1,6 @@
-# Post MCS Inc. Projects to consider
+# MCS Inc. projects to consider
 
-A Mission Critical Solutions team.
+A Mission Critical Solutions team.(MCS Inc.)
 
 Happy to know you're here to help Micah Rose-Mighty. Welcome aboard.
 
