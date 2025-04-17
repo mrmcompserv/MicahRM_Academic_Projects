@@ -4,7 +4,7 @@ A Mission Critical Solutions team.(MCS Inc.)
 
 Happy to know you're here to help Micah Rose-Mighty. Welcome aboard.
 
-The purpose of this repository is to serve as a useful reminder of projects and critical vulnerabilites in the Cyber War. Enjoy!
+The purpose of this repository is to serve as a useful reminder of projects and mission critical vulnerabilites. Enjoy!
 
 
 Micah wrote >
